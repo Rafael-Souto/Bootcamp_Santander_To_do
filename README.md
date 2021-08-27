@@ -11,4 +11,4 @@ Ao clicar no botão criar tarefa a nossa tela inicial que estava vazia agora mos
 Como proposto na aula tentei dar uma cara diferente para o aplicativo e ao final ele ficou assim...
 
 
-https://user-images.githubusercontent.com/86630359/131194933-295ac65f-3365-409b-8e44-f1f736bd151a.mp4
+https://user-images.githubusercontent.com/86630359/131196533-99991bc0-d682-4cee-a81e-b269af481c0a.mp4
