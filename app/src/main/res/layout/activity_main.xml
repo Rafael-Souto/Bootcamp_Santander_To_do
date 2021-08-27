@@ -13,19 +13,21 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_begin="26dp" />
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/gl_end"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_end="26dp" />
+
     <TextView
         android:id="@+id/tv_tasks_today"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="@id/gl_start"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="16dp"
         style="@style/TextAppearance.MaterialComponents.Headline5"
         android:textStyle="bold"
         android:text="@string/label_task_today"/>
